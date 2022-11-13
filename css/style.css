@@ -515,7 +515,7 @@ footer ul{
         flex-direction: column;
     }
     .responsive ul{
-        height: 200px;
+        height: 260px;
     }
     .responsive li {
         display: inline-block;
